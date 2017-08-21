@@ -1,0 +1,10 @@
+{
+  "name": "handlebars",
+  "repo": "rinterest-team/handlebars",
+  "description": "handlebars template",
+  "version": "0.1.0",
+  "keywords": ["handlebars"],
+  "scripts": ["index.js"],
+  "files": ["lib/**"],
+  "license": "MIT"
+}
